@@ -1,6 +1,7 @@
 This repository contains the code for the paper:
 # "Game-theoretic Counterfactual Explanation for Graph Neural Networks"
 Authors: Chirag Chhablani, Sarthak Jain, Akshay Channesh, Ian A. Kash, Sourav Medya
+
 To appear in WebConf, 2024
 
 Link: https://arxiv.org/abs/2402.06030
